@@ -1,5 +1,5 @@
 class script(object):  
-    START_TXT = """<b>✨ Hᴇʟʟᴏ {user}.
+    START_TXT = """<b> Hello {user}.
 Mʏ Nᴀᴍᴇ Is {bot}.
 Just Add Me To Your Group And Enjoy</b>"""
     
@@ -7,7 +7,7 @@ Just Add Me To Your Group And Enjoy</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
 🦹 Creator: <a href=https://t.me/YourX>YourX</a>
-🤖 Version: 2.0 ⚡ """
+🤖 Version: 4.0 ⚡ """
    
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
