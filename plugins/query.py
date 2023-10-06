@@ -457,8 +457,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "about":
         buttons= [[
-            InlineKeboardButton('🙅 Close', 'close_data'),
-            InlineKeyboardButton('🏄 Back', 'start')          
+            InlineKeyboardButton('🏡 Home', callback_data='start'),
+            InlineKeyboardButton('🙅🏻 Close', callback_data='close_data')
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), script.ABOUT_TXT.format(temp.B_NAME), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
         
