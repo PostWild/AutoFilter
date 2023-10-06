@@ -1,8 +1,7 @@
 class script(object):  
     START_TXT = """<b>✨ Hᴇʟʟᴏ {user}.
-
 Mʏ Nᴀᴍᴇ Is {bot}.
-Just Add Me To Your Group And Enjoyᴘ</b>"""
+Just Add Me To Your Group And Enjoy</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
