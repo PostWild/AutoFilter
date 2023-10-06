@@ -5,7 +5,7 @@ Just Add Me To Your Group And Enjoy</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
-    ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
+    ABOUT_TXT = """<b>👰 My Name: {}
 🦹 Creator: <a href=https://t.me/YourX>YourX</a>
 🤖 Version: 4.0 ⚡ """
    
